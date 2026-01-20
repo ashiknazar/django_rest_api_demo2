@@ -1,4 +1,7 @@
 # django_rest_api_demo2
-<p align="center">
-  <img src="images/logo.png" alt="Django REST Test App" width="100%">
-</p>
+<div style="height:100vh; display:flex; align-items:center; justify-content:center;">
+  <img src="docs/rest-api-logo.png"
+       alt="Django REST Test App"
+       style="max-height:100vh; max-width:100%; object-fit:contain;" />
+</div>
+
